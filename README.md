@@ -1,6 +1,7 @@
 # Programming Languages
 Learning resources for some programming languages
-
+## Go
+  * Go by Example: https://gobyexample.com/
 ## Nim
    * Nim by Example: https://nim-by-example.github.io/
 

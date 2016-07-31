@@ -14,6 +14,7 @@ Learning resources for some programming languages
 
 ## Python
    * Scipy Lecture Notes: http://www.scipy-lectures.org/index.html
+   * CPython Internals: http://pgbovine.net/cpython-internals.htm
 
 ## Ruby on Rails
    * Ruby On Rails Tutorial (RAILS 5): https://www.railstutorial.org/book

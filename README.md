@@ -1,5 +1,8 @@
 # Programming Languages
 Learning resources for some programming languages
+## AWK
+  * An Awk Primer: https://en.wikibooks.org/wiki/An_Awk_Primer
+
 ## Go
   * Go by Example: https://gobyexample.com/
 

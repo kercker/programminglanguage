@@ -3,6 +3,9 @@ Learning resources for some programming languages
 ## Go
   * Go by Example: https://gobyexample.com/
 
+## Haskell
+  * Learn You a Haskell for Great Good!: http://learnyouahaskell.com/chapters
+
 ## Nim
    * Nim by Example: https://nim-by-example.github.io/
 
